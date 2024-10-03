@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|d:\\my project\\helloworld\\helloworld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|D:\\My Project\\HelloWorld\\helloworld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|D:\\My Project\\HelloWorld\\helloworld\\frmtachten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\frmtachten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|D:\\My Project\\HelloWorld\\helloworld\\frmtachten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\frmtachten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|D:\\My Project\\HelloWorld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|D:\\My Project\\HelloWorld\\helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FED6E285-0394-48DF-92DB-CF98A20CEDB3}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmMain.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\FrmMain.cs",
+              "ToolTip": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmMain.cs",
+              "RelativeToolTip": "HelloWorld\\FrmMain.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAywCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:17:51.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMain.cs [Design]",
+              "DocumentMoniker": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmMain.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\FrmMain.cs",
+              "ToolTip": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmMain.cs [Design]",
+              "RelativeToolTip": "HelloWorld\\FrmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:09:41.294Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTachTen.cs",
+              "DocumentMoniker": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmTachTen.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\FrmTachTen.cs",
+              "ToolTip": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmTachTen.cs",
+              "RelativeToolTip": "HelloWorld\\FrmTachTen.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:24:38.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmTachTen.cs [Design]",
+              "DocumentMoniker": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmTachTen.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\FrmTachTen.cs",
+              "ToolTip": "D:\\My Project\\HelloWorld\\HelloWorld\\FrmTachTen.cs [Design]",
+              "RelativeToolTip": "HelloWorld\\FrmTachTen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:04:19.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\My Project\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
+              "ToolTip": "D:\\My Project\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeToolTip": "HelloWorld\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA8wBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:55:26.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\My Project\\HelloWorld\\HelloWorld\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Form1.cs",
+              "ToolTip": "D:\\My Project\\HelloWorld\\HelloWorld\\Form1.cs [Design]",
+              "RelativeToolTip": "HelloWorld\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:51:06.007Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
