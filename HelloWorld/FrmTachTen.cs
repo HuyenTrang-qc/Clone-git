@@ -24,15 +24,34 @@ namespace HelloWorld
         }
 
         private void button1_Click(object sender, EventArgs e)
+
         {
             string ht;
             int vtd, vtc;
             ht = txtHoTen.Text.Trim();
             vtd = ht.IndexOf(" ");
             vtc = ht.LastIndexOf(" ");
-            txtHo.Text = ht.Substring(0,vtd);
-            txtTen.Text = ht.Substring(vtc + 1);
-            txtDem.Text = ht.Substring(vtd + 1, ht.Length - vtd-txtTen.TextLength-1-1);
+            try
+            {
+                if(vtd > 0)
+                {
+                    txtHo.Text = ht.Substring(0, vtd);
+                    txtTen.Text = ht.Substring(vtc + 1);
+                    txtDem.Text = ht.Substring(vtd + 1, ht.Length - vtd - txtTen.TextLength - 1 - 1);
+                } else
+                {
+                    txtHo.Text = ht;
+
+
+                }
+               
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
+
+
         }
 
         private void txtHoTen_TextChanged(object sender, EventArgs e)
